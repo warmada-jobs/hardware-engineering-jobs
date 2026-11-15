@@ -1,6 +1,6 @@
 # US Hardware Engineering Jobs
 
-Open hardware engineering roles at US employers: 116 hardware engineering roles at 54 companies, each posted in the last 14 days and still open. **Updated every day by [Warmada](https://warmada.com/?utm_source=github&utm_medium=list&utm_campaign=hardware-engineering).** Last updated 2026-11-14.
+Open hardware engineering roles at US employers: 116 hardware engineering roles at 54 companies, each posted in the last 14 days and still open. **Updated every day by [Warmada](https://warmada.com/?utm_source=github&utm_medium=list&utm_campaign=hardware-engineering).** Last updated 2026-11-15.
 
 All 116 are listed below. Browse the newest on [warmada.com/jobs/hardware-engineering](https://warmada.com/jobs/hardware-engineering?utm_source=github&utm_medium=list&utm_campaign=hardware-engineering).
 
